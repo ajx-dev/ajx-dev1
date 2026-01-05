@@ -8,16 +8,35 @@ Feel free to fork or copy it and replace the information with your own.
 🎓 IT Student – Cybersecurity Track <br>
 💻 Web Developer & App Developer | Security-aware Programmer 🔐
 </p><p align="center">
-  <!-- عدد الزوار -->
-  <img alt="Profile Views" src="https://img.shields.io/badge/👁️%20Profile%20Views-1234-green?style=for-the-badge&logo=github" />
-  
-  <!-- المتابعين -->
-  <img alt="Followers" src="https://img.shields.io/badge/⭐%20Followers-56-blue?style=for-the-badge&logo=github" />
-  
-  <!-- Commits last year -->
-  <img alt="Commits Last Year" src="https://img.shields.io/badge/📝%20Commits%20Last%20Year-789-purple?style=for-the-badge&logo=github" />
-</p>
+ <!-- 👀 مؤشرات النشاط الحقيقية -->
+‏<p align="center">
+  <!-- عدد الزوار الحقيقي -->
+‏  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ajx-dev&color=2bbc8a&style=for-the-badge" />
 
+  <!-- عدد المتابعين الحقيقي -->
+‏  <img alt="Followers" src="https://img.shields.io/github/followers/ajx-dev?label=Followers&style=for-the-badge&color=blue" />
+
+‏  <!-- Commits last year الحقيقي -->
+‏  <img alt="Commits Last Year" src="https://img.shields.io/github/commit-activity/m/ajx-dev?style=for-the-badge&color=purple" />
+‏</p>
+
+---
+
+‏<!-- GitHub Stats -->
+‏<p align="center">
+‏  <img src="https://github-readme-stats.vercel.app/api?username=ajx-dev&show_icons=true&theme=default" />
+‏</p>
+
+‏<p align="center">
+‏  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajx-dev&layout=compact" />
+‏</p>
+
+---
+
+‏<!-- Activity Graph -->
+‏<p align="center">
+‏  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajx-dev&bg_color=0d1117&color=2bbc8a&line=2bbc8a&point=ffffff&hide_border=true" alt="Alaa's GitHub Activity Graph"/>
+‏</p>
 <p align="center">
 I build modern websites and develop applications, while also learning cybersecurity to make my projects secure. <br>
 I enjoy programming, coding challenges, and hands-on projects, always combining functionality with security.
