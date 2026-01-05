@@ -73,19 +73,16 @@ I enjoy programming, coding challenges, and hands-on projects, always combining 
 </p>
 
 ---
-
 ## 🔍 Find Me Here
 
 <p align="center">
-<a href="https://github.com/ajx-dev">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-ajx--dev-%2312100E?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <!-- GitHub -->
+  <a href="https://github.com/ajx-dev" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-ajx--dev-%2312100E?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/alaa-48432435a/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alaa%20Mohammed-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
-
----
-
-<p align="center">
-💻 Building websites & apps. Securing them with cybersecurity mindset. <br>
-🚀 <i>Learning today. Coding tomorrow. Defending always.</i>
-</p>
-
