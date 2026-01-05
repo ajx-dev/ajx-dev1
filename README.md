@@ -8,12 +8,6 @@ Feel free to fork or copy it and replace the information with your own.
 🎓 IT Student – Cybersecurity Track <br>
 💻 Web Developer & App Developer | Security-aware Programmer 🔐
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajx-dev&label=Profile%20Views&color=2bbc8a&style=flat" />
-  <img src="https://img.shields.io/github/followers/ajx-dev?label=Followers&style=flat&color=2bbc8a" />
-  <img src="https://img.shields.io/github/stars/ajx-dev?affiliations=OWNER&label=Total%20Stars&style=flat&color=2bbc8a" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ajx-dev&hide_border=true" />
-</p>
 
 <p align="center">
 I build modern websites and develop applications, while also learning cybersecurity to make my projects secure. <br>
