@@ -82,6 +82,7 @@ I enjoy programming, coding challenges, and hands-on projects, always combining 
   </a>
 
   <!-- LinkedIn -->
+  
   <a href="https://www.linkedin.com/in/alaa-48432435a/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alaa%20Mohammed-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
