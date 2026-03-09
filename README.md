@@ -3,7 +3,7 @@
 Feel free to fork or copy it and replace the information with your own.
 -->
 
-<h1 align="center">👋 Hi, I'm Alaa Alfaifi </h1>
+<h1 align="center">👋 Hi, I'm Alaa Alfaifi !! </h1>
 <p align="center">
 🎓 IT Student – Cybersecurity Track <br>
 💻 Web Developer & App Developer | Security-aware Programmer 🔐
